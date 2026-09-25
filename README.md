@@ -58,7 +58,7 @@ Um jogo educativo: a nave se quebra no espaço e é preciso reconstruí-la respo
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="./assets/planet-avatar.svg" width="72" alt="" /><br/>
+<img src=".https://github.com/giosampp.png" width="72" alt="" /><br/>
 <b>Nome da integrante</b><br/>
 <sub>Função</sub><br/>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub" /></a>
