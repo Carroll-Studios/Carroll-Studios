@@ -1,1 +1,14 @@
-
+<svg viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Divisor de constelação rosa-nebulosa">
+  <line x1="40" y1="20" x2="960" y2="20" stroke="#EC4899" stroke-width="1" opacity="0.3" stroke-dasharray="2 10"/>
+  <g fill="#EC4899">
+    <circle cx="140" cy="20" r="2.4"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="480" cy="20" r="3"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.9s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="860" cy="20" r="2.4"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.2s" begin="1.1s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="320" y="14" font-size="13" fill="#E9E4FF">✦
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.3s" repeatCount="indefinite"/>
+  </text>
+  <text x="720" y="28" font-size="12" fill="#C4B5FD">✦
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" begin="0.9s" repeatCount="indefinite"/>
+  </text>
+</svg>
