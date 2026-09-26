@@ -16,6 +16,9 @@
       <stop offset="0%" stop-color="#F3F0FF"/>
       <stop offset="100%" stop-color="#C4B5FD"/>
     </radialGradient>
+    <clipPath id="ringFrontClipHeader">
+      <rect x="-100" y="0" width="200" height="24"/>
+    </clipPath>
   </defs>
 
   <rect x="0" y="0" width="1000" height="260" fill="url(#galaxyBg)"/>
@@ -49,13 +52,24 @@
   <g transform="translate(770,95)">
     <g>
       <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="40s" repeatCount="indefinite"/>
-      <ellipse rx="78" ry="16" fill="none" stroke="#8B5CF6" stroke-width="4" transform="rotate(-18)"/>
-      <ellipse rx="78" ry="16" fill="none" stroke="#E9E4FF" stroke-width="1" opacity="0.6" transform="rotate(-18)"/>
+      <g transform="rotate(-18)">
+        <ellipse rx="78" ry="16" fill="none" stroke="#8B5CF6" stroke-width="4"/>
+        <ellipse rx="78" ry="16" fill="none" stroke="#E9E4FF" stroke-width="1" opacity="0.6"/>
+      </g>
     </g>
+
     <circle r="46" fill="url(#planetBody)"/>
     <circle cx="-14" cy="-12" r="6" fill="#C4B5FD" opacity="0.6"/>
     <circle cx="10" cy="14" r="9" fill="#C4B5FD" opacity="0.5"/>
     <circle cx="16" cy="-16" r="4" fill="#C4B5FD" opacity="0.5"/>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="40s" repeatCount="indefinite"/>
+      <g transform="rotate(-18)" clip-path="url(#ringFrontClipHeader)">
+        <ellipse rx="78" ry="16" fill="none" stroke="#8B5CF6" stroke-width="4"/>
+        <ellipse rx="78" ry="16" fill="none" stroke="#E9E4FF" stroke-width="1" opacity="0.6"/>
+      </g>
+    </g>
   </g>
 
   <circle cx="120" cy="150" r="6" fill="#6D28D9" opacity="0.8"/>
