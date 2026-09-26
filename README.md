@@ -58,31 +58,31 @@ Um jogo educativo: a nave se quebra no espaço e é preciso reconstruí-la respo
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://github.com/giosampp.png" width="72" style="border-radius:50%" alt="Giovanna Sampaio" /><br/>
+<img src="https://github.com/giosampp.png" width="72" height="72" alt="Giovanna Sampaio" /><br/>
 <b>Giovanna Sampaio</b><br/>
 <sub>Design & Front-end</sub><br/>
 <a href="https://github.com/giosampp"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Giovanna Sampaio" /></a>
 </td>
 <td align="center" width="20%">
-<img src="https://github.com/hadassamicaele.png" width="72" style="border-radius:50%" alt="Hadassa Micaele" /><br/>
+<img src="https://github.com/hadassamicaele.png" width="72" height="72" alt="Hadassa Micaele" /><br/>
 <b>Hadassa Micaele</b><br/>
 <sub>Banco de Dados</sub><br/>
 <a href="https://github.com/hadassamicaele"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Hadassa Micaele" /></a>
 </td>
 <td align="center" width="20%">
-<img src="https://github.com/IsabellyStack.png" width="72" style="border-radius:50%" alt="Isabelly Gomes" /><br/>
+<img src="https://github.com/IsabellyStack.png" width="72" height="72" alt="Isabelly Gomes" /><br/>
 <b>Isabelly Gomes</b><br/>
 <sub>Backend</sub><br/>
 <a href="https://github.com/IsabellyStack"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Isabelly Gomes" /></a>
 </td>
 <td align="center" width="20%">
-<img src="https://github.com/juliacastro13.png" width="72" style="border-radius:50%" alt="Julia" /><br/>
+<img src="https://github.com/juliacastro13.png" width="72" height="72" alt="Julia" /><br/>
 <b>Julia</b><br/>
 <sub>Front-end</sub><br/>
 <a href="https://github.com/juliacastro13"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Julia" /></a>
 </td>
 <td align="center" width="20%">
-<img src="https://github.com/yasmimdomingos-png.png" width="72" style="border-radius:50%" alt="Yasmin" /><br/>
+<img src="https://github.com/yasmimdomingos-png.png" width="72" height="72" alt="Yasmin" /><br/>
 <b>Yasmin</b><br/>
 <sub>Backend</sub><br/>
 <a href="https://github.com/yasmimdomingos-png"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Yasmin" /></a>
