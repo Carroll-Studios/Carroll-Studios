@@ -24,7 +24,7 @@ A **Carroll Studios** nasceu como a startup fictícia da nossa equipe, estudante
 
 <div align="center"><img src="https://img.shields.io/badge/🌌_Nossa%20constela%C3%A7%C3%A3o%20de%20projetos-6D28D9?style=for-the-badge&logoColor=white" alt="Nossa constelação de projetos" /></div>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" align="center">
 
@@ -55,38 +55,38 @@ Um jogo educativo: a nave se quebra no espaço e é preciso reconstruí-la respo
 
 <div align="center"><img src="https://img.shields.io/badge/👩‍🚀_Integrantes-EC4899?style=for-the-badge&logoColor=white" alt="Integrantes" /></div>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" width="18%">
-<img src="https://github.com/giosampp.png?s=144" width="72" alt="Giovanna Sampaio" /><br/>
+<img src="https://github.com/giosampp.png?s=144" width="72" height="72" style="border-radius:50%;object-fit:cover;" alt="Giovanna Sampaio" /><br/>
 <b>Giovanna Sampaio</b><br/>
 <sub>Design & Front-end</sub><br/>
 <a href="https://github.com/giosampp"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Giovanna Sampaio" /></a>
 </td>
-<td align="center" width="2%" valign="middle"><sub>✦</sub></td>
+<td align="center" width="2%" valign="middle"><img src="./assets/star-divider-thin.svg" height="90" alt="" /></td>
 <td align="center" width="18%">
-<img src="https://github.com/hadassamicaele.png?s=144" width="72" alt="Hadassa Micaele" /><br/>
+<img src="https://github.com/hadassamicaele.png?s=144" width="72" height="72" style="border-radius:50%;object-fit:cover;" alt="Hadassa Micaele" /><br/>
 <b>Hadassa Micaele</b><br/>
 <sub>Banco de Dados</sub><br/>
 <a href="https://github.com/hadassamicaele"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Hadassa Micaele" /></a>
 </td>
-<td align="center" width="2%" valign="middle"><sub>✦</sub></td>
+<td align="center" width="2%" valign="middle"><img src="./assets/star-divider-thin.svg" height="90" alt="" /></td>
 <td align="center" width="18%">
-<img src="https://github.com/IsabellyStack.png?s=144" width="72" alt="Isabelly Gomes" /><br/>
+<img src="https://github.com/IsabellyStack.png?s=144" width="72" height="72" style="border-radius:50%;object-fit:cover;" alt="Isabelly Gomes" /><br/>
 <b>Isabelly Gomes</b><br/>
 <sub>Backend</sub><br/>
 <a href="https://github.com/IsabellyStack"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Isabelly Gomes" /></a>
 </td>
-<td align="center" width="2%" valign="middle"><sub>✦</sub></td>
+<td align="center" width="2%" valign="middle"><img src="./assets/star-divider-thin.svg" height="90" alt="" /></td>
 <td align="center" width="18%">
-<img src="https://github.com/juliacastro13.png?s=144" width="72" alt="Julia" /><br/>
+<img src="https://github.com/juliacastro13.png?s=144" width="72" height="72" style="border-radius:50%;object-fit:cover;" alt="Julia" /><br/>
 <b>Julia</b><br/>
 <sub>Front-end</sub><br/>
 <a href="https://github.com/juliacastro13"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Julia" /></a>
 </td>
-<td align="center" width="2%" valign="middle"><sub>✦</sub></td>
+<td align="center" width="2%" valign="middle"><img src="./assets/star-divider-thin.svg" height="90" alt="" /></td>
 <td align="center" width="18%">
-<img src="https://github.com/yasmimdomingos-png.png?s=144" width="72" alt="Yasmin" /><br/>
+<img src="https://github.com/yasmimdomingos-png.png?s=144" width="72" height="72" style="border-radius:50%;object-fit:cover;" alt="Yasmin" /><br/>
 <b>Yasmin</b><br/>
 <sub>Backend</sub><br/>
 <a href="https://github.com/yasmimdomingos-png"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Yasmin" /></a>
