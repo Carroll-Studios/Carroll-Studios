@@ -1,0 +1,18 @@
+<svg width="20" height="140" viewBox="0 0 20 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- corpo da fita -->
+  <rect x="8" y="6" width="4" height="118" rx="2" fill="#8B5CF6" fill-opacity="0.75"/>
+  <path d="M8 124 L12 124 L10 134 Z" fill="#8B5CF6" fill-opacity="0.75"/>
+  <path d="M6 6 L10 0 L14 6 Z" fill="#8B5CF6" fill-opacity="0.55"/>
+
+  <!-- planetinha com anel -->
+  <circle cx="10" cy="35" r="4" fill="#F0ABFC"/>
+  <ellipse cx="10" cy="35" rx="7" ry="2" fill="none" stroke="#F5D0FE" stroke-width="1"/>
+
+  <!-- estrelinhas -->
+  <circle cx="10" cy="60" r="1.4" fill="#FDE68A"/>
+  <circle cx="10" cy="80" r="1.2" fill="#FFFFFF"/>
+  <circle cx="10" cy="100" r="1.4" fill="#EC4899"/>
+
+  <!-- cometinha -->
+  <circle cx="10" cy="115" r="1.8" fill="#C4B5FD"/>
+</svg>
