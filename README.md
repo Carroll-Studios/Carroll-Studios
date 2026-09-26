@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&duration=2400&pause=1200&color=C4B5FD&center=true&vCenter=true&width=620&height=30&lines=Planejando+em+equipe;Construindo+dois+projetos;Do+planejamento+ao+c%C3%B3digo;Uma+startup%2C+uma+constela%C3%A7%C3%A3o+de+ideias" alt="Frases sobre a equipe" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&duration=2400&pause=1200&color=C4B5FD&center=true&vCenter=true&width=620&height=30&lines=Bem-vindo+ao+nosso+universo;IFCE+Maranguape;Uma+constela%C3%A7%C3%A3o+de+projetos+em+%C3%B3rbita" alt="Frases sobre a equipe" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center"><img src="https://img.shields.io/badge/🪐_Sobre%20a%20Carroll%20Studios-8B5CF6?style=for-the-badge&logoColor=white" alt="Sobre a Carroll Studios" /></div>
 
-A **Carroll Studios** é a startup fictícia criada pelo nosso grupo para a disciplina de **Programação Orientada a Objetos**. Aqui reunimos o planejamento, a organização da equipe e a evolução dos nossos projetos — do design ao código, sempre em conjunto.
+A **Carroll Studios** nasceu como a startup fictícia da nossa equipe, estudantes de **Informática do IFCE Maranguape**, criada para a disciplina de **Programação Orientada a Objetos**. Assim como uma constelação, cada projeto é um ponto de luz que se conecta aos demais, formando o mapa da nossa jornada como desenvolvedoras. Aqui reunimos planejamento, organização de equipe e evolução técnica dos nossos projetos — do design ao código, sempre em conjunto.
 
 <img src="./assets/star-divider-2.svg" width="100%" alt="" />
 
@@ -58,7 +58,7 @@ Um jogo educativo: a nave se quebra no espaço e é preciso reconstruí-la respo
 <table>
 <tr>
 <td align="center" width="25%">
-<img src=".https://github.com/giosampp.png" width="72" alt="" /><br/>
+<img src="./assets/planet-avatar.svg" width="72" alt="" /><br/>
 <b>Nome da integrante</b><br/>
 <sub>Função</sub><br/>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub" /></a>
