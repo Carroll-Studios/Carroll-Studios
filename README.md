@@ -90,7 +90,6 @@ Um jogo educativo: a nave se quebra no espaço e é preciso reconstruí-la respo
 </tr>
 </table>
 
-<sub>Faltam 2 integrantes — quando você mandar os dados, é só trocar os dois últimos cards do mesmo jeito.</sub>
 
 <br/>
 
