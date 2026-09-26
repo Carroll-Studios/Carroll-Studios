@@ -58,22 +58,22 @@ Um jogo educativo: a nave se quebra no espaço e é preciso reconstruí-la respo
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="./assets/planet-avatar.svg" width="72" alt="" /><br/>
-<b>Nome da integrante</b><br/>
-<sub>Função</sub><br/>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub" /></a>
+<img src="https://github.com/giosampp.png" width="72" style="border-radius:50%" alt="Giovanna Sampaio" /><br/>
+<b>Giovanna Sampaio</b><br/>
+<sub>Design & Front-end</sub><br/>
+<a href="https://github.com/giosampp"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Giovanna Sampaio" /></a>
 </td>
 <td align="center" width="20%">
-<img src="./assets/planet-avatar.svg" width="72" alt="" /><br/>
-<b>Nome da integrante</b><br/>
-<sub>Função</sub><br/>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub" /></a>
+<img src="https://github.com/hadassamicaele.png" width="72" style="border-radius:50%" alt="Hadassa Micaele" /><br/>
+<b>Hadassa Micaele</b><br/>
+<sub>Gerenciamento</sub><br/>
+<a href="https://github.com/hadassamicaele"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Hadassa Micaele" /></a>
 </td>
 <td align="center" width="20%">
-<img src="./assets/planet-avatar.svg" width="72" alt="" /><br/>
-<b>Nome da integrante</b><br/>
-<sub>Função</sub><br/>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub" /></a>
+<img src="https://github.com/IsabellyStack.png" width="72" style="border-radius:50%" alt="Isabelly Gomes" /><br/>
+<b>Isabelly Gomes</b><br/>
+<sub>Programação</sub><br/>
+<a href="https://github.com/IsabellyStack"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Isabelly Gomes" /></a>
 </td>
 <td align="center" width="20%">
 <img src="./assets/planet-avatar.svg" width="72" alt="" /><br/>
@@ -90,7 +90,7 @@ Um jogo educativo: a nave se quebra no espaço e é preciso reconstruí-la respo
 </tr>
 </table>
 
-<sub>Troque <code>./assets/planet-avatar.svg</code> por <code>https://github.com/USUARIO.png</code> (a foto de perfil do GitHub de cada uma), preencha nome/função e o link de cada uma.</sub>
+<sub>Faltam 2 integrantes — quando você mandar os dados, é só trocar os dois últimos cards do mesmo jeito.</sub>
 
 <br/>
 
