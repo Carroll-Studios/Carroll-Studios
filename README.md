@@ -71,7 +71,7 @@ Um jogo educativo: a nave se quebra no espaço e é preciso reconstruí-la respo
 </td>
 <td align="center" width="20%">
 <img src="https://github.com/IsabellyStack.png" width="72" style="border-radius:50%" alt="Isabelly Gomes" /><br/>
-<b>Isabelly Gomes</b><br/>
+<b>Isabelly  Gomes</b><br/>
 <sub>Programação</sub><br/>
 <a href="https://github.com/IsabellyStack"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" alt="GitHub de Isabelly Gomes" /></a>
 </td>
