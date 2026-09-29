@@ -22,6 +22,30 @@ A **Carroll Studios** nasceu como a startup fictícia da nossa equipe, estudante
 
 <img src="./assets/star-divider-2.svg" width="100%" alt="" />
 
+<div align="center"><img src="https://img.shields.io/badge/🎯_Nossa%20Miss%C3%A3o-8B5CF6?style=for-the-badge&logoColor=white" alt="Nossa Missão" /></div>
+
+> **Transformar ideias em experiências digitais criativas e únicas, explorando a tecnologia para criar projetos que surpreendam e inspirem.**
+
+<img src="./assets/star-divider-2.svg" width="100%" alt="" />
+
+<div align="center"><img src="https://img.shields.io/badge/🔭_Nossa%20Vis%C3%A3o-6D28D9?style=for-the-badge&logoColor=white" alt="Nossa Visão" /></div>
+
+> **Tornar-se uma referência em criatividade e tecnologia, reconhecida por transformar ideias em experiências digitais inovadoras e marcantes.**
+
+<img src="./assets/star-divider-2.svg" width="100%" alt="" />
+
+<div align="center"><img src="https://img.shields.io/badge/❤️_Nossos%20Valores-EC4899?style=for-the-badge&logoColor=white" alt="Nossos Valores" /></div>
+
+- ✨ **Criatividade**
+- 💡 **Inovação**
+- 🤝 **Trabalho em equipe**
+- 💻 **Tecnologia**
+- 🎨 **Originalidade**
+- 📚 **Aprendizado**
+- 🧩 **Qualidade**
+
+<img src="./assets/star-divider-2.svg" width="100%" alt="" />
+
 <div align="center"><img src="https://img.shields.io/badge/🌌_Nossa%20constela%C3%A7%C3%A3o%20de%20projetos-6D28D9?style=for-the-badge&logoColor=white" alt="Nossa constelação de projetos" /></div>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -82,7 +106,7 @@ Um jogo educativo: a nave se quebra no espaço e é preciso reconstruí-la respo
 <img src="https://github.com/juliacastro13.png?s=144" width="72" height="72" style="border-radius:50%;object-fit:cover;" alt="Julia" /><br/>
 <b>Julia</b><br/>
 <sub>Front-end</sub><br/>
-<a href="https://github.com/juliacastro13"><img src="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" width="90" alt="GitHub de Julia" /></a>
+<a href="https://img.shields.io/badge/GitHub-1A1730?style=flat-square&logo=github&logoColor=E9E4FF" width="90" alt="GitHub de Julia" /></a>
 </td>
 <td align="center" width="24" valign="middle"><img src="./assets/galaxy-ribbon-v2.svg" width="20" height="140" alt="" /></td>
 <td align="center" width="130">
